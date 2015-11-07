@@ -1,0 +1,9 @@
+diff a/new file.txt b/new file.txt	(rejected hunks)
+@@ -1,2 +0,6 @@
+- #this is new file
+ -second file
+++<<<<<<< Updated upstream
+++#this is new file
+++=======
+++second file
+++>>>>>>> Stashed changes
