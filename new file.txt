@@ -1,2 +1,6 @@
+<<<<<<< Updated upstream
 #this is new file
 @#$
+=======
+second file
+>>>>>>> Stashed changes
