@@ -1,2 +1,3 @@
 @echo off
-:rem primul script pentru jenkins
+::rem primul script pentru jenkins
+::first job
