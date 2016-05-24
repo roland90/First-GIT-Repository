@@ -1,0 +1,8 @@
+<<<<<<< Updated upstream
+#this is new file
+@#$
+=======
+second file
+>>>>>>> Stashed changes
+<<third change
+>>>fourth change

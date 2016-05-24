@@ -1,0 +1,21 @@
+From e9d5f3db4d421da88e7d9319abc9e78f5c66e421 Mon Sep 17 00:00:00 2001
+From: Roland <roland_kuhn90@yahpp.com>
+Date: Sat, 7 Nov 2015 22:40:18 +0200
+Subject: [PATCH] new commit
+
+---
+ new file.txt | 1 +
+ 1 file changed, 1 insertion(+)
+ create mode 100644 new file.txt
+
+diff --git a/new file.txt b/new file.txt
+new file mode 100644
+index 0000000..4e0d110
+--- /dev/null
++++ b/new file.txt	
+@@ -0,0 +1 @@
++#this is new file
+\ No newline at end of file
+-- 
+1.9.5.msysgit.0
+
