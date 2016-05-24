@@ -4,3 +4,4 @@
 =======
 second file
 >>>>>>> Stashed changes
+<<third change
