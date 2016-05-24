@@ -5,3 +5,4 @@
 second file
 >>>>>>> Stashed changes
 <<third change
+>>>fourth change
